@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.0",
-  "latest_build": 7,
-  "apk_url": "https://github.com/alphasportsbrasil/todentro/releases/latest/download/ToDentro-v7-2026-04-01.apk",
-  "message": "Esta atualizacao e obrigatoria para continuar usando o app.",
-  "force_update": true
+  "latest_build": 8,
+  "apk_url": "https://github.com/alphasportsbrasil/todentro/releases/latest/download/ToDentro-v8-2026-04-02.apk",
+  "message": "Nova versao disponivel. Deseja atualizar agora?",
+  "force_update": false
 }
